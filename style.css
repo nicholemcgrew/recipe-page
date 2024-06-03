@@ -95,7 +95,7 @@ textarea:not([rows]) {
 
 body {
     margin: 0;
-	padding: 1rem;
+	/* padding: 1rem; */
 	background-color: hsl(30, 54%, 90%);
 	font-family: "Outfit";
 	display: flex;
